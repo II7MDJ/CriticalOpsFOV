@@ -1,0 +1,9 @@
+Package: com.shmoo.critfov
+Name: Critical Ops Field of View Chooser
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Made by shmoo
+Author: shmoo
+Section: Tweaks
+Homepage: https://iosgods.com

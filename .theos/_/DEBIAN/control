@@ -1,0 +1,10 @@
+Package: com.shmoo.critfov
+Name: Critical Ops Cheats
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: An awesome Cydia Substrate tweak from iOSGods.com!
+Author: shmoo
+Section: Tweaks
+Homepage: https://iosgods.com
+Version: 1.0.0-39+debug
+Installed-Size: 140
